@@ -1,0 +1,2 @@
+# config.py
+OPENAI_KEY = "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"  # Replace with your real OpenAI API key
